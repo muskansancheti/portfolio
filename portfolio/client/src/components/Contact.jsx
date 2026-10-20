@@ -83,8 +83,8 @@ function Contact() {
             about technology — feel free to reach out.
           </p>
 
-          <a href="mailto:yourmail@example.com">
-            yourmail@example.com →
+          <a href="mailto:muskansancheti5@gmail.com">
+            muskansancheti5@gmail.com →
           </a>
         </div>
 
