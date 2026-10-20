@@ -86,6 +86,7 @@ function Contact() {
           <a href="mailto:muskansancheti5@gmail.com">
             muskansancheti5@gmail.com →
           </a>
+          
         </div>
 
         <form onSubmit={handleSubmit}>
